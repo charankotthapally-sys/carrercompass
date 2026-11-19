@@ -1,0 +1,6 @@
+{
+  "name": "CareerCompass AI",
+  "description": "Student Skill Gap Analysis and Personalized Career Roadmap powered by Gemini AI and a structured career competency dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
